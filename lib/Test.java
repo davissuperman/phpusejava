@@ -10,4 +10,12 @@ public class Test {
 
        return min;
     }
+
+    public static int show(int m){
+         return m*5;
+    }
+
+    public static int showNoParam(){
+             return 5*5;
+        }
 }
