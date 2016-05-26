@@ -1,0 +1,8 @@
+javac -cp ".:./jars/common.jar" HelloWorld.java
+java -cp ".:./jars/common.jar" HelloWorld
+
+jar cf  Test.jar Test.class
+
+
+javac -cp ".:./jars/Test.jar" HelloWorld.java
+java -cp ".:./jars/Test.jar" HelloWorld
