@@ -6,3 +6,7 @@ jar cf  Test.jar Test.class
 
 javac -cp ".:./jars/Test.jar" HelloWorld.java
 java -cp ".:./jars/Test.jar" HelloWorld
+
+javac -cp ".:./jars/HppPlusJavaTls1.2.jar" HelloWorld.java
+java -cp ".:./jars/HppPlusJavaTls1.2.jar" HelloWorld
+  // 設定交易資料
