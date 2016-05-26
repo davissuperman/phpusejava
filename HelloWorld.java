@@ -5,7 +5,7 @@ public class HelloWorld {
          HppApiClient apiClient=new HppApiClient();
          apiClient.setMERCHANTID("6600800020");
          apiClient.setTERMINALID("70502876");
-         apiClient.setORDERID("1000002");
+         apiClient.setORDERID("1000003");
          apiClient.setTRANSMODE("0");
          apiClient.setINSTALLMENT("0");
          apiClient.setTRANSAMT("1");
