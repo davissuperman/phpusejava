@@ -10,3 +10,7 @@ java -cp ".:./jars/Test.jar" HelloWorld
 javac -cp ".:./jars/HppPlusJavaTls1.2.jar" HelloWorld.java
 java -cp ".:./jars/HppPlusJavaTls1.2.jar" HelloWorld
   // 設定交易資料
+
+
+/e7eFc3R3D4rpGjQWz5aDSHAm63U53FL
+/e7eFc3R3D4rpGjQWz5aDUU6kCvVTpj8
